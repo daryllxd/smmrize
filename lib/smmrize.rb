@@ -1,4 +1,3 @@
-require "CGI"
 require "net/http"
 require "JSON"
 
